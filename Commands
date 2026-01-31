@@ -1,0 +1,57 @@
+Here are some things You can do with Linux Terminal
+
+Basics:
+
+1. Opening something specific in a browser : xdg-open https://www._____________.com
+2. Opening anything: application name (e.g.. google-chrome)
+
+Watching Anime:
+installation: sudo apt install ani-cli
+use command: ani-cli 
+
+# Those were some basic stuffs now let's talk about some fun stuffs:
+
+1. Opening a Retro TV style Terminal : 
+          installation: sudo apt install cool-retro-term
+          use command: cool-retro-term
+
+2. Virtual Cat chasing Cursor:
+          installation: sudo apt-get install oneko
+          use command: oneko
+
+3. Display Digital Clock:
+          installation: sudo apt install tty-clock
+          use command: tty-clock
+
+4. Display in stylish text:
+          installation: sudo apt-get install figlet
+          use command:
+                      normal: figlet ________.
+                      change font: figlet -f slant ____.
+
+5.Aquarium simulation in Ascii:
+                    installation: sudo snap install asciiquarium
+                    use command: asciiquarium
+
+6.Train simulation in Ascii:
+                    installation: sudo apt install sl
+                    use command: sl
+
+7.Virtual Fire:
+          installation: sudo apt install libaa-bin
+          use command: aafire
+
+8. Text-to-speech:
+          installation: sudo apt install cowsay
+          use command: cowsay ____.
+
+9. Random Fortune teller:
+          installation: sudo apt install fortune-mod
+          use command: fortune
+
+10. Network test:
+            installation: sudo apt install speedtest-cli
+            use command:
+                      basic command: speedtest
+                      in bytes: speedtest --bytes
+                      server list: speedtest --list
