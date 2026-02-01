@@ -55,3 +55,11 @@ use command: ani-cli
                       basic command: speedtest
                       in bytes: speedtest --bytes
                       server list: speedtest --list
+
+11. Tetris Game:
+          installation: sudo apt install bastet
+          run : bastet
+
+12. Cmatrix:
+          installation: sudo apt install cmatrix
+          run: cmatrix 
