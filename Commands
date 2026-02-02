@@ -67,3 +67,10 @@ use command: ani-cli
 13. General search in terminal:
                     installation: sudo apt install ddgr
                     run: ddgr ___.
+
+14. Bonsai tree:
+          install: sudo snap install cbonsai
+          run: 
+             existing bonsai: cbonsai
+                    live: cbonsai -l
+                    time: cbonsai -t
