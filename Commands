@@ -63,3 +63,7 @@ use command: ani-cli
 12. Cmatrix:
           installation: sudo apt install cmatrix
           run: cmatrix 
+
+13. General search in terminal:
+                    installation: sudo apt install ddgr
+                    run: ddgr ___.
