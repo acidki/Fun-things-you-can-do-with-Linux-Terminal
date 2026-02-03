@@ -4,6 +4,7 @@ Basics:
 
 1. Opening something specific in a browser : xdg-open https://www._____________.com
 2. Opening anything: application name (e.g.. google-chrome)
+3.check ip: ip -br a
 
 Watching Anime:
 installation: sudo apt install ani-cli
