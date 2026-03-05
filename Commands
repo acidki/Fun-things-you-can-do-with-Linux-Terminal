@@ -79,3 +79,13 @@ use command: ani-cli
 15. Audio visualizer:
                     installation: sudo apt install cava
                     run: cava
+
+16. Battery Check up :
+                    run: $ upower -i /org/freedesktop/UPower/devices/battery_BAT1
+
+17. power checkup:
+                    install: sudo apt update
+                             sudo apt install powertop
+
+                    run: sudo powertop --html=battery-report.html
+                    access: xdg-open battery-report.html
